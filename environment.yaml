@@ -1,0 +1,18 @@
+
+---
+
+## 📄 environment.yml (for Conda)
+
+```yaml
+name: healthcare_ds
+channels:
+  ‑ conda‑forge
+dependencies:
+  ‑ python=3.10
+  ‑ pandas
+  ‑ numpy
+  ‗ matplotlib
+  ‗ seaborn
+  ‗ scikit‑learn
+  ‗ xgboost
+  ‗ joblib
